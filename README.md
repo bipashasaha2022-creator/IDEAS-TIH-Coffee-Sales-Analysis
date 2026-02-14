@@ -111,3 +111,12 @@ git clone https://github.com/bipashasaha2022-creatorcreate/IDEAS-TIH-Coffee-Sale
 02-Exploratory_data_analysis_with_sales_data_Spring_2026.ipynb
 3.Install required libraries
 pip install pandas numpy scikit-learn
+
+
+##Conclusion
+This project shows how basic data analysis and a simple regression model can help understand coffee sales patterns and predict transaction revenue based on time and coffee type.
+
+##👩‍💻Author
+Bipasha Saha
+IDEAS-TIH Spring Internship Project (2026)
+IDEAS-TIH-Coffee-Sales-Analysis
