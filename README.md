@@ -63,7 +63,7 @@ Example analysis:
 
 A **Linear Regression model** was trained to predict coffee sales amount (`money`) based on:
 
-- `hour_of_d`
+- `hour_of_day`
 - `coffee_name`
 - `Weekday`
 
